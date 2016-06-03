@@ -1,0 +1,14 @@
+layout_spectrum: 0.6773183
+typography_spectrum: 0.6472431
+color:
+  saturation: 0.7600251
+  lightness: 0.9922803
+  brandStrength: 0.05066317
+  brandColors:
+    - '#2A2924'
+    - '#FEF9F3'
+    - '#74726C'
+    - '#BE1010'
+    - '#1CD5D2'
+  rhythmicContrast: 0.7907268
+name: knotcircus
