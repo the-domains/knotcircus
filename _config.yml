@@ -1,14 +1,26 @@
-layout_spectrum: 0.6773183
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6472431
 color:
-  saturation: 0.7600251
-  lightness: 0.9922803
-  brandStrength: 0.05066317
+  saturation: 0.816416
+  brandStrength: 0.8640351
+  lightness: 0.9906015
   brandColors:
-    - '#2A2924'
-    - '#FEF9F3'
-    - '#74726C'
-    - '#BE1010'
-    - '#1CD5D2'
-  rhythmicContrast: 0.7907268
+    - '#808080'
+    - '#1E0B07'
+    - '#FFFFFF'
+    - '#963113'
+    - '#48DCA8'
+  rhythmicContrast: 0.9379699
+layout_spectrum: 0.6773183
 name: knotcircus
